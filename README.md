@@ -29,6 +29,7 @@ em projetos privados e/ou Open Source de qualquer lugar do mundo.</p><br>
   <li>git add .</li>
   <li>git push origin main</li>
   <li>git pull</li>
+  <li>git -m "texto"</li>
 </ol>
 
 <p> No GitHub aprendi a atualizar informações como título, parágrafo e imagem. Fiz tudo utilizando a documentação 
