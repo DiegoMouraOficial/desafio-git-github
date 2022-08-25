@@ -13,5 +13,12 @@ o histórico de edições de qualquer tipo de arquivo.
 </p><br>
 
 Link para download do Git
-[clique aqui](https://git-scm.com/)
+[clique aqui](https://git-scm.com/) <br>
+
+<img src="Github-Logo-White.png" width="250" height="250"><br>
+
+## O que GitHub?
+<p>GitHub é uma plataforma de hospedagem de código-fonte e arquivos com controle de versão usando o
+Git. Ele permite que programadores, utilitários ou qualquer usuário cadastrado na plataforma contribuam
+em projetos privados e/ou Open Source de qualquer lugar do mundo.</p><br>
 
