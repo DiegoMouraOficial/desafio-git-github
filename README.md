@@ -23,7 +23,7 @@ Git. Ele permite que programadores, utilitários ou qualquer usuário cadastrado
 em projetos privados e/ou Open Source de qualquer lugar do mundo.</p><br>
 
 ## Aprendizado?
-<p> Treinei utilizando o terminal Git Bash e entendendo os comandos básico do Git</p><br>
+<p> Treinei utilizando o terminal Git Bash e entendendo alguns comandos básicos do Git;</p>
 <ol>
   <li>pwd</li>
   <li>ls</li>
