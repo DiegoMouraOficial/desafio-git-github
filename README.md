@@ -35,5 +35,5 @@ em projetos privados e/ou Open Source de qualquer lugar do mundo.</p><br>
 <p> No GitHub aprendi a atualizar informações como título, parágrafo e imagem. Fiz tudo utilizando a documentação 
   da sintaxe básica do markdown, inclusive, redimensionando as imagens </p>
   
-  Link da sintaxe do Markdown [clique aqui]([https://git-scm.com/](https://www.markdownguide.org/basic-syntax/)
+  Link da sintaxe do Markdown [clique aqui](https://www.markdownguide.org/basic-syntax/)
 
