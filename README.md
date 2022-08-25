@@ -10,5 +10,8 @@ Repositório criado para o Desafio.
 <p>Git ₍ₒᵤ em inglês britânico₎ é um sistema de controle de versões distribuído, 
 usado principalmente no desenvolvimento de software, mas pode ser usado para registrar 
 o histórico de edições de qualquer tipo de arquivo.
-</p>
+</p><br>
+
+##Link para download do GIT
+[Git Download](https://git-scm.com/)
 
