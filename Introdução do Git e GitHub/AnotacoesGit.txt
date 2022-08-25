@@ -1,0 +1,39 @@
+O que é Git?
+
+ Git ₍ₒᵤ em inglês britânico₎ é um sistema de controle de versões distribuído, 
+usado principalmente no desenvolvimento de software, mas pode ser usado para registrar 
+o histórico de edições de qualquer tipo de arquivo.
+
+Comandos do Git
+1 - git add
+2 - git commit 
+3 - git push
+4 - git status
+5 - git branch
+6 - git checkout
+7 - git config
+8 - git init
+9 - git clone 
+10 - git remote 
+11 - git fetch
+12 - git pull
+13 - git stash 
+14 - git show 
+15 - git rm
+16 - git help
+17 - git merge
+18 - git rebase
+19 - git pull -rebase 
+20 - git cherry-pick
+21 - git archive
+22 - git blame 
+23 - git tag 
+24 - git diff
+25 - git citool
+26 - git whatchanged
+27 - git commit -m "teste"
+E outros ...
+
+
+
+Link para download do Git (https://git-scm.com/downloads)
