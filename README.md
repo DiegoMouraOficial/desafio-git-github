@@ -22,7 +22,7 @@ Link para download do Git
 Git. Ele permite que programadores, utilitários ou qualquer usuário cadastrado na plataforma contribuam
 em projetos privados e/ou Open Source de qualquer lugar do mundo.</p><br>
 
-## Aprendizado?
+## Qual foi o aprendizado?
 <p> Treinei utilizando o terminal Git Bash e entendendo alguns comandos básicos do Git;</p>
 <ol>
   <li>pwd</li>
@@ -33,4 +33,7 @@ em projetos privados e/ou Open Source de qualquer lugar do mundo.</p><br>
   <li>git push origin main</li>
   <li>git pull</li>
 </ol>
+
+<p> No GitHub aprendi a atualizar informações como título, parágrafo e imagem. Fiz tudo utilizando a documentação 
+  da sintaxe básica do markdown, inclusive, redimensionando as imagens </p>
 
