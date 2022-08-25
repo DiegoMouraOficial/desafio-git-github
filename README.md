@@ -4,7 +4,7 @@ Repositório criado para o Desafio.
 ## Links Úteis
 [Sintaxe básica Markdown (.md)](https://www.markdownguide.org/basic-syntax/)
 
-<img src="git-logo-intro.png" width="300" height="180"><br>
+<img src="git-logo-intro.png" width="300" height="100"><br>
 
 ## O que é Git? 
 <p>Git ₍ₒᵤ em inglês britânico₎ é um sistema de controle de versões distribuído, 
