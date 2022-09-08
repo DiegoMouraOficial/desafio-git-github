@@ -1,7 +1,7 @@
 # Desafio DIO de Projeto sobre Git e GitHub
 Repositório criado para o Desafio.
 
-## O que é Git? <img src="git-logo-intro.png" width="46" height="17">
+## O que é Git? <img src="git-logo-intro.png" width="46" height="20">
 <p>
 Git ₍ₒᵤ em inglês britânico₎ é um sistema de controle de versões distribuído, 
 usado principalmente no desenvolvimento de software, mas pode ser usado para registrar 
@@ -11,7 +11,7 @@ o histórico de edições de qualquer tipo de arquivo.
 Link para download do Git
 [clique aqui](https://git-scm.com/) <br>
 
-## O que GitHub? <img src="Github-Logo-White.png" width="42" height="42">
+## O que GitHub? <img src="Github-Logo-White.png" width="30" height="30">
 <p>
 GitHub é uma plataforma de hospedagem de código-fonte e arquivos com controle de versão usando o
 Git. Ele permite que programadores, utilitários ou qualquer usuário cadastrado na plataforma contribuam
